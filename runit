@@ -1,0 +1,1 @@
+podman run --rm -it --name hit -p 8088:5000 quay.io/dbrugger946/http-img:1.0
